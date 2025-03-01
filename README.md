@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 Hi, I'm Rémi, a passionate software engineer and tech explorer! 
 
-<!--
-**remax21/remax21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 I specialize in cross-platform mobile development with `Flutter`. I'm also proficient in the JavaScript ecosystem (`Node.js`, `React`, `React Native`, `Expo`, `Express`, `MongoDB`) and have experience with `Java`/`Spring` for backend development. 
 
-Here are some ideas to get you started:
+💡 I'm always eager to learn more about programming, especially software architecture (SOLID, OOP, Clean Code, TDD...), to build maintainable and scalable systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I co-founded [OrdoSafe](https://www.ordosafe.fr/), a solution to combat medical fraud in France.
+
+💻 **Currently**: Freelancer at [ViaMichelin](https://www.viamichelin.fr/)  
+🏗️ **Building & experimenting**: Always testing new side projects to explore the latest tech. Currently diving into `Go` to broaden my backend skills. 🔧  
+
+🔙 **Previously worked at:** [Théodo Apps](https://apps.theodo.com/) and [Swappy](https://www.swappy.fr/)  
+
+📫 **Let's connect!**  
+📧 Email: deronzier.remi@gmail.com  
+📇 [LinkedIn](https://www.linkedin.com/in/remi-deronzier/)  
+
+🚀 _"Always shipping, always learning!" 🔧_
